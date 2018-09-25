@@ -1,0 +1,6 @@
+framework module Pods_LSZFoundation_Example {
+  umbrella header "Pods-LSZFoundation_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

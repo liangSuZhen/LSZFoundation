@@ -1,0 +1,16 @@
+PODS:
+  - LSZFoundation (0.1.0)
+
+DEPENDENCIES:
+  - LSZFoundation (from `../`)
+
+EXTERNAL SOURCES:
+  LSZFoundation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LSZFoundation: d081d2120af4bfd239cc17aaf857be3f1613e8aa
+
+PODFILE CHECKSUM: 7c186e26e4f22e93c4cd490ce5521a8d4ce50122
+
+COCOAPODS: 1.5.3
