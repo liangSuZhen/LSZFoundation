@@ -1,0 +1,29 @@
+//
+//  lszViewController.m
+//  LSZFoundation
+//
+//  Created by 13223711282 on 09/25/2018.
+//  Copyright (c) 2018 13223711282. All rights reserved.
+//
+
+#import "lszViewController.h"
+
+@interface lszViewController ()
+
+@end
+
+@implementation lszViewController
+
+- (void)viewDidLoad
+{
+    [super viewDidLoad];
+	// Do any additional setup after loading the view, typically from a nib.
+}
+
+- (void)didReceiveMemoryWarning
+{
+    [super didReceiveMemoryWarning];
+    // Dispose of any resources that can be recreated.
+}
+
+@end

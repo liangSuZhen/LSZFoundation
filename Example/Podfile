@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LSZFoundation_Example' do
+  pod 'LSZFoundation', :path => '../'
+
+  target 'LSZFoundation_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
