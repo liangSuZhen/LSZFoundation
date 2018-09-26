@@ -19,10 +19,16 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod 'LSZFoundation'
 ```
-
+如果使用简单的手势的方法,则需要导入#import "WTConst.h"
+实例:
+[self.view tapGesture:^(UIGestureRecognizer *ges) {
+        NSLog(@"点击事件");
+    }];
+    
+封装的sdk是:https://github.com/Tate-zwt/WTSDK  
 ## Author
 
-13223711282, 3284609080@qq.com
+1322****282, 3284609080@qq.com
 
 ## License
 
